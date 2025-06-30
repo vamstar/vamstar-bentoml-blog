@@ -1,0 +1,5 @@
+bentoml==1.4.16
+torch==2.7.0
+transformers==4.51.3
+hf_xet>=1.1.5
+accelerate>=1.8.1

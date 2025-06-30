@@ -1,0 +1,9 @@
+include:
+  - service.py
+python:
+  packages:
+    - bentoml
+    - torch
+    - transformers
+    - accelerate
+    - hf_xet
